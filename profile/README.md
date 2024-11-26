@@ -24,7 +24,7 @@ Here are some of our most popular scripts:
 - **[jsfour-idcard](https://github.com/ScubeScripts/jsfour-idcard):** User-friendly ID cards for your players.
 - **[sc_phonetax](https://github.com/ScubeScripts/sc_phonetax):** A phone system with an integrated tax system.
 
-You can find more projects in our [repositories](https://github.com/ScubeScripts).
+You can find more projects in our [repositories](https://github.com/orgs/ScubeScripts/repositories).
 
 ---
 
