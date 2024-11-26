@@ -1,6 +1,4 @@
-# Scube Scripts
-
-Welcome to **Scube Scripts**! 
+# Welcome to **Scube Scripts**! 
 
 We are a team of three passionate developers dedicated to providing high-quality and innovative scripts for the FiveM community. Our goal is to equip you with tools and solutions that enhance your gameplay experience and take your server to the next level.
 
