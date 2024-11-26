@@ -48,7 +48,11 @@ You can find more projects in our [repositories](https://github.com/orgs/ScubeSc
 
 ## ✨ **Community and Support**
 
-Visit us on our [Discord server](https://discord.gg/Mqgewse3Yc) to get help, share ideas, or simply become part of our growing community.
+Visit us on our **Discord server** to get help, share ideas, or simply become part of our growing community.
+
+<p><a href="https://discord.gg/Mqgewse3Yc">
+      <img src="https://img.shields.io/discord/942834394517876857?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
 
 ---
 
