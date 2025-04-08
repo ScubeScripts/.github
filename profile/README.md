@@ -1,6 +1,8 @@
 # Welcome to **Scube Scripts**! 
 
-We are a team of three passionate developers dedicated to providing high-quality and innovative scripts for the FiveM community. Our goal is to equip you with tools and solutions that enhance your gameplay experience and take your server to the next level.
+ScubeScripts consists of a small team of amateur and professional programmers. We enjoy developing free and open-source resources and sharing them with the community. However, we invest a lot of time and effort into maintaining and supporting these projects.
+
+Our team members volunteer their time to keep everything running. You're welcome to take a closer look at their work or show your appreciation by supporting us.
 
 ---
 
